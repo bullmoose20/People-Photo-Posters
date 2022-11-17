@@ -4,8 +4,6 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 		<meta name="Author" content="Made by 'tree'">
 		<meta name="GENERATOR" content="$Version: $ tree v1.5.2.2 (c) 1996 - 2009 by Steve Baker, Thomas Moore, Francesc Rocher, Kyosuke Tokoro $">
-		<title>Available People Posters</title>
-		<style type="text/css">
 			<!-- 
 			BODY { font-family : courier, monospace, sans-serif; }
 			P { font-weight: normal; font-family : courier, monospace, sans-serif; color: black; background-color: transparent;}
@@ -24,7 +22,6 @@
 			.SOCK { color: fuchsia; background-color: transparent;}
 			.EXEC { color: green; background-color: transparent;}
 			-->
-		</style>
 	</head>
 	<body>
 		<h1>Available People Posters</h1>
@@ -46,7 +43,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Aaron Stanford.png">Aaron Stanford.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Aaron Taylor-Johnson.png">Aaron Taylor-Johnson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Aaron W Reed.png">Aaron W Reed.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Aarón Díaz.png">Aarón Díaz.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/AarÃ³n DÃ­az.png">AarÃ³n DÃ­az.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Aatash Amir.png">Aatash Amir.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Abbey Hoes.png">Abbey Hoes.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Abby Elliott.png">Abby Elliott.png</a>
@@ -104,7 +101,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Afemo Omilami.png">Afemo Omilami.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Affion Crockett.png">Affion Crockett.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Agatha Christie.png">Agatha Christie.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Agnès Varda.png">Agnès Varda.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/AgnÃ¨s Varda.png">AgnÃ¨s Varda.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ahikar Azcona.png">Ahikar Azcona.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ahmed Ahmed Poor.png">Ahmed Ahmed Poor.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ahmed Ahmed.png">Ahmed Ahmed.png</a>
@@ -174,13 +171,13 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Albert Hughes.png">Albert Hughes.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Albert R. Broccoli.png">Albert R. Broccoli.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Albert Tsai.png">Albert Tsai.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alberto Rodríguez.png">Alberto Rodríguez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alberto RodrÃ­guez.png">Alberto RodrÃ­guez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Aldis Hodge.png">Aldis Hodge.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alec Baldwin.png">Alec Baldwin.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alec Guinness.png">Alec Guinness.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alec McCowen.png">Alec McCowen.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alejandra Gollas.png">Alejandra Gollas.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alejandro González Iñárritu.png">Alejandro González Iñárritu.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alejandro GonzÃ¡lez IÃ±Ã¡rritu.png">Alejandro GonzÃ¡lez IÃ±Ã¡rritu.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alejandro Jodorowsky.png">Alejandro Jodorowsky.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Aleks Paunovic.png">Aleks Paunovic.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Aleksandr Kuznetsov.png">Aleksandr Kuznetsov.png</a>
@@ -194,7 +191,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alex Gibney.png">Alex Gibney.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alex Gurney.png">Alex Gurney.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alex Hyde-White.png">Alex Hyde-White.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alex Høgh Andersen.png">Alex Høgh Andersen.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alex HÃ¸gh Andersen.png">Alex HÃ¸gh Andersen.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alex Kurtzman.png">Alex Kurtzman.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alex MacQueen.png">Alex MacQueen.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alex Merkin.png">Alex Merkin.png</a>
@@ -207,13 +204,13 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alex Solowitz.png">Alex Solowitz.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alex Wolff.png">Alex Wolff.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexa Demie.png">Alexa Demie.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexa GyÖrgy.png">Alexa GyÖrgy.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexa GyÃ–rgy.png">Alexa GyÃ–rgy.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexa PenaVega.png">Alexa PenaVega.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexander Cobb.png">Alexander Cobb.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexander Godunov.png">Alexander Godunov.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexander Gould.png">Alexander Gould.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexander Ludwig.png">Alexander Ludwig.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexander Skarsgård.png">Alexander Skarsgård.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexander SkarsgÃ¥rd.png">Alexander SkarsgÃ¥rd.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexandr Rodnyansky.png">Alexandr Rodnyansky.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexandra Beaton.png">Alexandra Beaton.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexandra Daddario.png">Alexandra Daddario.png</a>
@@ -231,7 +228,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alexis Denisof.png">Alexis Denisof.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alfie Allen.png">Alfie Allen.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alfonso Arau.png">Alfonso Arau.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alfonso Cuarón.png">Alfonso Cuarón.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alfonso CuarÃ³n.png">Alfonso CuarÃ³n.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alfre Woodard.png">Alfre Woodard.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alfred Hitchcock.png">Alfred Hitchcock.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Alfred Molina.png">Alfred Molina.png</a>
@@ -319,7 +316,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Amy Sedaris.png">Amy Sedaris.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Amy Smart.png">Amy Smart.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Amy Sobol.png">Amy Sobol.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ana Ofelia Murguía.png">Ana Ofelia Murguía.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ana Ofelia MurguÃ­a.png">Ana Ofelia MurguÃ­a.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ana Ularu.png">Ana Ularu.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ana de Armas.png">Ana de Armas.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Anastasia Hille.png">Anastasia Hille.png</a>
@@ -351,14 +348,14 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andrew Stanton.png">Andrew Stanton.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andrew W. Walker.png">Andrew W. Walker.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andrzej Seweryn.png">Andrzej Seweryn.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/András Korcsmáros.png">András Korcsmáros.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/André Bédard.png">André Bédard.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/André Holland.png">André Holland.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/AndrÃ¡s KorcsmÃ¡ros.png">AndrÃ¡s KorcsmÃ¡ros.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/AndrÃ© BÃ©dard.png">AndrÃ© BÃ©dard.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/AndrÃ© Holland.png">AndrÃ© Holland.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andy Allo.png">Andy Allo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andy Apollo.png">Andy Apollo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andy Bale.png">Andy Bale.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andy Dick.png">Andy Dick.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andy García.png">Andy García.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andy GarcÃ­a.png">Andy GarcÃ­a.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andy Hoff.png">Andy Hoff.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andy Le.png">Andy Le.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andy Parsons.png">Andy Parsons.png</a>
@@ -367,7 +364,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andy Secombe.png">Andy Secombe.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andy Serkis.png">Andy Serkis.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Andy Thompson.png">Andy Thompson.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Anette Støvelbæk.png">Anette Støvelbæk.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Anette StÃ¸velbÃ¦k.png">Anette StÃ¸velbÃ¦k.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ang Lee.png">Ang Lee.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Angad Singh Ranyal.png">Angad Singh Ranyal.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Angel Coulby.png">Angel Coulby.png</a>
@@ -461,7 +458,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Antonio Banderas.png">Antonio Banderas.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Antonio David Lyons.png">Antonio David Lyons.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Antonio Romero.png">Antonio Romero.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Antonio Viña.png">Antonio Viña.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Antonio ViÃ±a.png">Antonio ViÃ±a.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Antony Sher.png">Antony Sher.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Antony Starr.png">Antony Starr.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Anupam Tripathi.png">Anupam Tripathi.png</a>
@@ -476,7 +473,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Aramis Knight.png">Aramis Knight.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Aravind SA.png">Aravind SA.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ari Aster.png">Ari Aster.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ari Eldjárn.png">Ari Eldjárn.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ari EldjÃ¡rn.png">Ari EldjÃ¡rn.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ari Shaffir.png">Ari Shaffir.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Aria Shahghasemi.png">Aria Shahghasemi.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Arian Moayed.png">Arian Moayed.png</a>
@@ -566,7 +563,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bad Bunny.png">Bad Bunny.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bae Doo-na.png">Bae Doo-na.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bae Doona.png">Bae Doona.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Baltasar Kormákur.png">Baltasar Kormákur.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Baltasar KormÃ¡kur.png">Baltasar KormÃ¡kur.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Barbara Broccoli.png">Barbara Broccoli.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Barbara Carrera.png">Barbara Carrera.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Barbara De Fina.png">Barbara De Fina.png</a>
@@ -606,8 +603,8 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Belinda McClory.png">Belinda McClory.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Belinda Stewart.png">Belinda Stewart.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bella Thorne.png">Bella Thorne.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Belén Atienza.png">Belén Atienza.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Belén Cuesta.png">Belén Cuesta.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/BelÃ©n Atienza.png">BelÃ©n Atienza.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/BelÃ©n Cuesta.png">BelÃ©n Cuesta.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ben Affleck.png">Ben Affleck.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ben Bailey-Smith.png">Ben Bailey-Smith.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ben Bailey.png">Ben Bailey.png</a>
@@ -641,7 +638,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Benjamin Ayres.png">Benjamin Ayres.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Benjamin Bratt.png">Benjamin Bratt.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Benjamin Byron Davis.png">Benjamin Byron Davis.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Benjamin Clémentine.png">Benjamin Clémentine.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Benjamin ClÃ©mentine.png">Benjamin ClÃ©mentine.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Benjamin Rigby.png">Benjamin Rigby.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Benjamin Zephaniah.png">Benjamin Zephaniah.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bennet Guillory.png">Bennet Guillory.png</a>
@@ -697,7 +694,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bill Nunn.png">Bill Nunn.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bill Paxton.png">Bill Paxton.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bill Pullman.png">Bill Pullman.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bill Skarsgård.png">Bill Skarsgård.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bill SkarsgÃ¥rd.png">Bill SkarsgÃ¥rd.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bill Smitrovich.png">Bill Smitrovich.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Billie Lourd.png">Billie Lourd.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Billie Piper.png">Billie Piper.png</a>
@@ -892,7 +889,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bryan Unkeless.png">Bryan Unkeless.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bryce Dallas Howard.png">Bryce Dallas Howard.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bryce Johnson.png">Bryce Johnson.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bráulio Mantovani.png">Bráulio Mantovani.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/BrÃ¡ulio Mantovani.png">BrÃ¡ulio Mantovani.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Burgess Meredith.png">Burgess Meredith.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Burn Gorman.png">Burn Gorman.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Burr Steers.png">Burr Steers.png</a>
@@ -905,13 +902,13 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Buster Reeves.png">Buster Reeves.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Byron Howard.png">Byron Howard.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Bzhaun Rhoden.png">Bzhaun Rhoden.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Béatrice Macola.png">Béatrice Macola.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/BÃ©atrice Macola.png">BÃ©atrice Macola.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/C. Robert Cargill.png">C. Robert Cargill.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/C. S. Forester.png">C. S. Forester.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/C.C. Smiff.png">C.C. Smiff.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/CCH Pounder.png">CCH Pounder.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cade Woodward.png">Cade Woodward.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Caitríona Balfe.png">Caitríona Balfe.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/CaitrÃ­ona Balfe.png">CaitrÃ­ona Balfe.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Caity Lotz.png">Caity Lotz.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Caleb Landry Jones.png">Caleb Landry Jones.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Caleb McLaughlin.png">Caleb McLaughlin.png</a>
@@ -952,10 +949,10 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carlo Marks.png">Carlo Marks.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carlos Alazraqui.png">Carlos Alazraqui.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carlos Guerrero.png">Carlos Guerrero.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carlos López Estrada.png">Carlos López Estrada.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carlos LÃ³pez Estrada.png">Carlos LÃ³pez Estrada.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carlos Navarro.png">Carlos Navarro.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carlos Saldanha.png">Carlos Saldanha.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carlos Suárez.png">Carlos Suárez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carlos SuÃ¡rez.png">Carlos SuÃ¡rez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carmel Laniado.png">Carmel Laniado.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carmen Christopher.png">Carmen Christopher.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carmen Cusack.png">Carmen Cusack.png</a>
@@ -964,7 +961,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carol Kane.png">Carol Kane.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carol Reed.png">Carol Reed.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carole Bouquet.png">Carole Bouquet.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carolina Gaitán.png">Carolina Gaitán.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Carolina GaitÃ¡n.png">Carolina GaitÃ¡n.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Caroline Aaron.png">Caroline Aaron.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Caroline Bliss.png">Caroline Bliss.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Caroline Cave.png">Caroline Cave.png</a>
@@ -1010,7 +1007,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Celeste O'Connor.png">Celeste O'Connor.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Celia Imrie.png">Celia Imrie.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Celia Weston.png">Celia Weston.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cesar de León.png">Cesar de León.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cesar de LeÃ³n.png">Cesar de LeÃ³n.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chace Crawford.png">Chace Crawford.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chad Daniels.png">Chad Daniels.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chad Michael Murray.png">Chad Michael Murray.png</a>
@@ -1059,7 +1056,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Charlie Sheen.png">Charlie Sheen.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Charlie Vickers.png">Charlie Vickers.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Charlize Theron.png">Charlize Theron.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Charlotte Bøving.png">Charlotte Bøving.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Charlotte BÃ¸ving.png">Charlotte BÃ¸ving.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Charlotte Hope.png">Charlotte Hope.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Charlotte Munck.png">Charlotte Munck.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Charlotte Rampling.png">Charlotte Rampling.png</a>
@@ -1089,9 +1086,9 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chloe Bennet.png">Chloe Bennet.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chloe Coleman.png">Chloe Coleman.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chloe Pirrie.png">Chloe Pirrie.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chloé Zhao.png">Chloé Zhao.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chloë Grace Moretz.png">Chloë Grace Moretz.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chloë Sevigny.png">Chloë Sevigny.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/ChloÃ© Zhao.png">ChloÃ© Zhao.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/ChloÃ« Grace Moretz.png">ChloÃ« Grace Moretz.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/ChloÃ« Sevigny.png">ChloÃ« Sevigny.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cho Ah-in.png">Cho Ah-in.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Choi Min-sik.png">Choi Min-sik.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chris Addison.png">Chris Addison.png</a>
@@ -1219,7 +1216,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chuck Russell.png">Chuck Russell.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chuku Modu.png">Chuku Modu.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Chukwudi Iwuji.png">Chukwudi Iwuji.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ciarán Hinds.png">Ciarán Hinds.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/CiarÃ¡n Hinds.png">CiarÃ¡n Hinds.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cillian Murphy.png">Cillian Murphy.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cindy Busby.png">Cindy Busby.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cindy Williams.png">Cindy Williams.png</a>
@@ -1264,8 +1261,8 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cloris Leachman.png">Cloris Leachman.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Clyde Geronimi.png">Clyde Geronimi.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Clyde Kusatsu.png">Clyde Kusatsu.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Clé Bennett.png">Clé Bennett.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Clémence Poésy.png">Clémence Poésy.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/ClÃ© Bennett.png">ClÃ© Bennett.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/ClÃ©mence PoÃ©sy.png">ClÃ©mence PoÃ©sy.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cobie Smulders.png">Cobie Smulders.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cody Cameron.png">Cody Cameron.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cody Kearsley.png">Cody Kearsley.png</a>
@@ -1320,7 +1317,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Corey Sevier.png">Corey Sevier.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Corey Stoll.png">Corey Stoll.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Corin Hardy.png">Corin Hardy.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Corinne Cléry.png">Corinne Cléry.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Corinne ClÃ©ry.png">Corinne ClÃ©ry.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cormac McCarthy.png">Cormac McCarthy.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cormac Wibberley.png">Cormac Wibberley.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cornell John.png">Cornell John.png</a>
@@ -1345,7 +1342,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cristela Alonzo.png">Cristela Alonzo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cristen Kauffman.png">Cristen Kauffman.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cristin Milioti.png">Cristin Milioti.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cristo Fernández.png">Cristo Fernández.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cristo FernÃ¡ndez.png">Cristo FernÃ¡ndez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Crystal Fox.png">Crystal Fox.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Crystal Mudry.png">Crystal Mudry.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Cuba Gooding Jr..png">Cuba Gooding Jr..png</a>
@@ -1408,15 +1405,15 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dana Ivey.png">Dana Ivey.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dana Lee.png">Dana Lee.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Danai Gurira.png">Danai Gurira.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Danay García.png">Danay García.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Danay GarcÃ­a.png">Danay GarcÃ­a.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dane Cook.png">Dane Cook.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dani Deetté.png">Dani Deetté.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dani DeettÃ©.png">Dani DeettÃ©.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dani Rovira.png">Dani Rovira.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dania Ramirez.png">Dania Ramirez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Danica Curcic.png">Danica Curcic.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Danica McKellar.png">Danica McKellar.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Daniel Bernhardt.png">Daniel Bernhardt.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Daniel Brühl.png">Daniel Brühl.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Daniel BrÃ¼hl.png">Daniel BrÃ¼hl.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Daniel Casey.png">Daniel Casey.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Daniel Cormier.png">Daniel Cormier.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Daniel Craig.png">Daniel Craig.png</a>
@@ -1470,7 +1467,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Danny Trejo.png">Danny Trejo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dany Garcia.png">Dany Garcia.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dar Salim.png">Dar Salim.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dara Ó Briain.png">Dara Ó Briain.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dara Ã“ Briain.png">Dara Ã“ Briain.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Darby Camp.png">Darby Camp.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Darci Lynne Farmer.png">Darci Lynne Farmer.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dario Argento.png">Dario Argento.png</a>
@@ -1644,7 +1641,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Demetri Martin.png">Demetri Martin.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Demi Moore.png">Demi Moore.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Demi Singleton.png">Demi Singleton.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Demián Bichir.png">Demián Bichir.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/DemiÃ¡n Bichir.png">DemiÃ¡n Bichir.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Denavaka Hamine.png">Denavaka Hamine.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Denholm Elliott.png">Denholm Elliott.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Denis Lawson.png">Denis Lawson.png</a>
@@ -1792,7 +1789,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Drew Michael.png">Drew Michael.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Drew Pearce.png">Drew Pearce.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Drew Tanner.png">Drew Tanner.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dulé Hill.png">Dulé Hill.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/DulÃ© Hill.png">DulÃ© Hill.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Duncan Jones.png">Duncan Jones.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Duncan Pow.png">Duncan Pow.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dustin Hoffman.png">Dustin Hoffman.png</a>
@@ -1814,8 +1811,8 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dylan O'Brien.png">Dylan O'Brien.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dylan Smith.png">Dylan Smith.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Dylan Walsh.png">Dylan Walsh.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Débora Nascimento.png">Débora Nascimento.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Díana Bermudez.png">Díana Bermudez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/DÃ©bora Nascimento.png">DÃ©bora Nascimento.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/DÃ­ana Bermudez.png">DÃ­ana Bermudez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/E.G. Marshall.png">E.G. Marshall.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/E.J. Bonilla.png">E.J. Bonilla.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Earl Boen.png">Earl Boen.png</a>
@@ -1843,7 +1840,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eddie Murphy.png">Eddie Murphy.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eddie Redmayne.png">Eddie Redmayne.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eden Nathenson.png">Eden Nathenson.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Edgar Ramírez.png">Edgar Ramírez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Edgar RamÃ­rez.png">Edgar RamÃ­rez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Edgar Wright.png">Edgar Wright.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Edie Falco.png">Edie Falco.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Edie McClurg.png">Edie McClurg.png</a>
@@ -1862,7 +1859,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Edward Woodward.png">Edward Woodward.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Efka Kvaraciejus.png">Efka Kvaraciejus.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eion Bailey.png">Eion Bailey.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eiza González.png">Eiza González.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eiza GonzÃ¡lez.png">Eiza GonzÃ¡lez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Elaine Goldsmith-Thomas.png">Elaine Goldsmith-Thomas.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Elden Henson.png">Elden Henson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eleanor Tomlinson.png">Eleanor Tomlinson.png</a>
@@ -1909,7 +1906,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ellen Burstyn.png">Ellen Burstyn.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ellen DeGeneres.png">Ellen DeGeneres.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ellen Greene.png">Ellen Greene.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ellen Hillingsø.png">Ellen Hillingsø.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ellen HillingsÃ¸.png">Ellen HillingsÃ¸.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Elliot Page.png">Elliot Page.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Elliott Gould.png">Elliott Gould.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Elmer Bernstein.png">Elmer Bernstein.png</a>
@@ -1924,7 +1921,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Emilia Clarke.png">Emilia Clarke.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Emilia Fox.png">Emilia Fox.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Emilie Ullerup.png">Emilie Ullerup.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Emilio Echevarría.png">Emilio Echevarría.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Emilio EchevarrÃ­a.png">Emilio EchevarrÃ­a.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Emily Baldoni.png">Emily Baldoni.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Emily Beecham.png">Emily Beecham.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Emily Bergl.png">Emily Bergl.png</a>
@@ -1965,10 +1962,10 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Enrico Casarosa.png">Enrico Casarosa.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Enrico Colantoni.png">Enrico Colantoni.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Enrique Arce.png">Enrique Arce.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Enrique López Lavigne.png">Enrique López Lavigne.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Enrique LÃ³pez Lavigne.png">Enrique LÃ³pez Lavigne.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Enzo Robutti.png">Enzo Robutti.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eoin Macken.png">Eoin Macken.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eric André.png">Eric André.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eric AndrÃ©.png">Eric AndrÃ©.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eric Bana.png">Eric Bana.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eric Bauza.png">Eric Bauza.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Eric Challier.png">Eric Challier.png</a>
@@ -2072,11 +2069,11 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Fay Ripley.png">Fay Ripley.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Faye Dunaway.png">Faye Dunaway.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Faye Marsay.png">Faye Marsay.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Fede Álvarez.png">Fede Álvarez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Fede Ãlvarez.png">Fede Ãlvarez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Federico Fellini.png">Federico Fellini.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Felicity Jones.png">Felicity Jones.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Felicity Montagu.png">Felicity Montagu.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Felipe Esparza Pérez.png">Felipe Esparza Pérez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Felipe Esparza PÃ©rez.png">Felipe Esparza PÃ©rez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Felipe Esparza.png">Felipe Esparza.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Felisha Terrell.png">Felisha Terrell.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Felix Chong.png">Felix Chong.png</a>
@@ -2117,7 +2114,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Francis Ford Coppola.png">Francis Ford Coppola.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Francis Lawrence.png">Francis Lawrence.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Francis de Wolff.png">Francis de Wolff.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Francisco Pablo Donadío.png">Francisco Pablo Donadío.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Francisco Pablo DonadÃ­o.png">Francisco Pablo DonadÃ­o.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Franco Citti.png">Franco Citti.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Franco Nero.png">Franco Nero.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Franco Zeffirelli.png">Franco Zeffirelli.png</a>
@@ -2145,9 +2142,9 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Frankie Boyle.png">Frankie Boyle.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Frankie Faison.png">Frankie Faison.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Franz Robert Wagner.png">Franz Robert Wagner.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/François Chau.png">François Chau.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/François Ruel-Côté.png">François Ruel-Côté.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/François Truffaut.png">François Truffaut.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/FranÃ§ois Chau.png">FranÃ§ois Chau.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/FranÃ§ois Ruel-CÃ´tÃ©.png">FranÃ§ois Ruel-CÃ´tÃ©.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/FranÃ§ois Truffaut.png">FranÃ§ois Truffaut.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Fraser Aitcheson.png">Fraser Aitcheson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Fred Armisen.png">Fred Armisen.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Fred Astaire.png">Fred Astaire.png</a>
@@ -2176,7 +2173,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gabrielle Rose.png">Gabrielle Rose.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gabrielle Union.png">Gabrielle Union.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gad Elmaleh.png">Gad Elmaleh.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gael García Bernal.png">Gael García Bernal.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gael GarcÃ­a Bernal.png">Gael GarcÃ­a Bernal.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gail Mancuso.png">Gail Mancuso.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gal Gadot.png">Gal Gadot.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gale Anne Hurd.png">Gale Anne Hurd.png</a>
@@ -2207,7 +2204,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gary Scott Thompson.png">Gary Scott Thompson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gary Sinise.png">Gary Sinise.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gary Trousdale.png">Gary Trousdale.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gaspar Noé.png">Gaspar Noé.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gaspar NoÃ©.png">Gaspar NoÃ©.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gaspard Ulliel.png">Gaspard Ulliel.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gastone Moschin.png">Gastone Moschin.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gaten Matarazzo.png">Gaten Matarazzo.png</a>
@@ -2269,8 +2266,8 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gero Camilo.png">Gero Camilo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gerry Bamman.png">Gerry Bamman.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gerry Robert Byrne.png">Gerry Robert Byrne.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gert Fröbe.png">Gert Fröbe.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ghita Nørby.png">Ghita Nørby.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gert FrÃ¶be.png">Gert FrÃ¶be.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ghita NÃ¸rby.png">Ghita NÃ¸rby.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gia Carides.png">Gia Carides.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Giancarlo Esposito.png">Giancarlo Esposito.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Giancarlo Giannini.png">Giancarlo Giannini.png</a>
@@ -2380,8 +2377,8 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gwendoline Christie.png">Gwendoline Christie.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gwyneth Keyworth.png">Gwyneth Keyworth.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gwyneth Paltrow.png">Gwyneth Paltrow.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Gérard Depardieu.png">Gérard Depardieu.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Götz Otto.png">Götz Otto.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/GÃ©rard Depardieu.png">GÃ©rard Depardieu.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/GÃ¶tz Otto.png">GÃ¶tz Otto.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/H. Jon Benjamin.png">H. Jon Benjamin.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Haaz Sleiman.png">Haaz Sleiman.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hadi Ka-Koush.png">Hadi Ka-Koush.png</a>
@@ -2489,14 +2486,14 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Herbert Siguenza.png">Herbert Siguenza.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hermione Norris.png">Hermione Norris.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Herschell Gordon Lewis.png">Herschell Gordon Lewis.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hervé Villechaize.png">Hervé Villechaize.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/HervÃ© Villechaize.png">HervÃ© Villechaize.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hettienne Park.png">Hettienne Park.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hideaki Anno.png">Hideaki Anno.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hideo Nakata.png">Hideo Nakata.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hil Horvath.png">Hil Horvath.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hilarie Burton.png">Hilarie Burton.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hilary Swank.png">Hilary Swank.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hildur Guðnadóttir.png">Hildur Guðnadóttir.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hildur GuÃ°nadÃ³ttir.png">Hildur GuÃ°nadÃ³ttir.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hilton McRae.png">Hilton McRae.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hilty Bowen.png">Hilty Bowen.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Himesh Patel.png">Himesh Patel.png</a>
@@ -2531,7 +2528,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Humphrey Bogart.png">Humphrey Bogart.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hunter Schafer.png">Hunter Schafer.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Hutch Parker.png">Hutch Parker.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Héctor Aníbal.png">Héctor Aníbal.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/HÃ©ctor AnÃ­bal.png">HÃ©ctor AnÃ­bal.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Iain Armitage.png">Iain Armitage.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Iain Glen.png">Iain Glen.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Iain Stirling.png">Iain Stirling.png</a>
@@ -2576,7 +2573,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Indya Bussey.png">Indya Bussey.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ingmar Bergman.png">Ingmar Bergman.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ingrid Bergman.png">Ingrid Bergman.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ingrid Bolsø Berdal.png">Ingrid Bolsø Berdal.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ingrid BolsÃ¸ Berdal.png">Ingrid BolsÃ¸ Berdal.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ingvar Sigurdsson.png">Ingvar Sigurdsson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ione Skye.png">Ione Skye.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Irvin Kershner.png">Irvin Kershner.png</a>
@@ -2585,7 +2582,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Isaac Butterfield.png">Isaac Butterfield.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Isaac C. Singleton Jr..png">Isaac C. Singleton Jr..png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Isaac Hempstead-Wright.png">Isaac Hempstead-Wright.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Isaach De Bankolé.png">Isaach De Bankolé.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Isaach De BankolÃ©.png">Isaach De BankolÃ©.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Isabel May.png">Isabel May.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Isabela Merced.png">Isabela Merced.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Isabella Paul.png">Isabella Paul.png</a>
@@ -2598,9 +2595,9 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Isla Blair.png">Isla Blair.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Isla Fisher.png">Isla Fisher.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Isla Johnston.png">Isla Johnston.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ismael Cruz Córdova.png">Ismael Cruz Córdova.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ismael Cruz CÃ³rdova.png">Ismael Cruz CÃ³rdova.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ithamar Enriquez.png">Ithamar Enriquez.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Itziar Ituño.png">Itziar Ituño.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Itziar ItuÃ±o.png">Itziar ItuÃ±o.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ivan Atkinson.png">Ivan Atkinson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ivan Mbakop.png">Ivan Mbakop.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ivan Reitman.png">Ivan Reitman.png</a>
@@ -2781,7 +2778,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Janeane Garofalo.png">Janeane Garofalo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Janel Parrish.png">Janel Parrish.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Janell Shirtcliff.png">Janell Shirtcliff.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Janelle Monáe.png">Janelle Monáe.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Janelle MonÃ¡e.png">Janelle MonÃ¡e.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Janeshia Adams-Ginyard.png">Janeshia Adams-Ginyard.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jang Young-hwan.png">Jang Young-hwan.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Janina Elkin.png">Janina Elkin.png</a>
@@ -2928,7 +2925,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jenno Topping.png">Jenno Topping.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jenny Agutter.png">Jenny Agutter.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jenny Slate.png">Jenny Slate.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jens Hultén.png">Jens Hultén.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jens HultÃ©n.png">Jens HultÃ©n.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jensen Ackles.png">Jensen Ackles.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jenson Cheng.png">Jenson Cheng.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jeremiah Bitsui.png">Jeremiah Bitsui.png</a>
@@ -2946,7 +2943,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jeremy Strong.png">Jeremy Strong.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jeremy Swift.png">Jeremy Swift.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jermaine Fowler.png">Jermaine Fowler.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jeroen Krabbé.png">Jeroen Krabbé.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jeroen KrabbÃ©.png">Jeroen KrabbÃ©.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jerome Flynn.png">Jerome Flynn.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jerrod Carmichael.png">Jerrod Carmichael.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jerry Adler.png">Jerry Adler.png</a>
@@ -3048,7 +3045,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jimmy Tatro.png">Jimmy Tatro.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jo Joyner.png">Jo Joyner.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jo Koy.png">Jo Koy.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joachim Rønning.png">Joachim Rønning.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joachim RÃ¸nning.png">Joachim RÃ¸nning.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joan Allen.png">Joan Allen.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joan Cusack.png">Joan Cusack.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joan Rivers.png">Joan Rivers.png</a>
@@ -3059,8 +3056,8 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joanne Froggatt.png">Joanne Froggatt.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joaquim de Almeida.png">Joaquim de Almeida.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joaquin Phoenix.png">Joaquin Phoenix.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joaquín Cosío.png">Joaquín Cosío.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joaquín Martínez.png">Joaquín Martínez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/JoaquÃ­n CosÃ­o.png">JoaquÃ­n CosÃ­o.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/JoaquÃ­n MartÃ­nez.png">JoaquÃ­n MartÃ­nez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jodi Benson.png">Jodi Benson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jodi Lyn O'Keefe.png">Jodi Lyn O'Keefe.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jodie Comer.png">Jodie Comer.png</a>
@@ -3313,7 +3310,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jordan Peele.png">Jordan Peele.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jordana Brewster.png">Jordana Brewster.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jordana Lajoie.png">Jordana Lajoie.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jordi Mollà.png">Jordi Mollà.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jordi MollÃ .png">Jordi MollÃ .png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jorge Lendeborg Jr..png">Jorge Lendeborg Jr..png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jorja Fox.png">Jorja Fox.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Josef Altin.png">Josef Altin.png</a>
@@ -3321,7 +3318,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Josef Sommer.png">Josef Sommer.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joseph D'Onofrio.png">Joseph D'Onofrio.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joseph Fiennes.png">Joseph Fiennes.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joseph Fürst.png">Joseph Fürst.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joseph FÃ¼rst.png">Joseph FÃ¼rst.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joseph Gatt.png">Joseph Gatt.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joseph Gilgun.png">Joseph Gilgun.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joseph Gordon-Levitt.png">Joseph Gordon-Levitt.png</a>
@@ -3372,12 +3369,12 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Josie Lawrence.png">Josie Lawrence.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joss Ackland.png">Joss Ackland.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joss Whedon.png">Joss Whedon.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/José Aldo.png">José Aldo.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Joséphine de la Baume.png">Joséphine de la Baume.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/JosÃ© Aldo.png">JosÃ© Aldo.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/JosÃ©phine de la Baume.png">JosÃ©phine de la Baume.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Juan Carlos Cantu.png">Juan Carlos Cantu.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Juan Carlos Fresnadillo.png">Juan Carlos Fresnadillo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Juan Castano.png">Juan Castano.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Juan Fernández.png">Juan Fernández.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Juan FernÃ¡ndez.png">Juan FernÃ¡ndez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Juan Pablo Raba.png">Juan Pablo Raba.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Juanes.png">Juanes.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Judah Friedlander.png">Judah Friedlander.png</a>
@@ -3445,7 +3442,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Justin Theroux.png">Justin Theroux.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Justin Timberlake.png">Justin Timberlake.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Justyn Shippelt.png">Justyn Shippelt.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Jóhannes Haukur Jóhannesson.png">Jóhannes Haukur Jóhannesson.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/JÃ³hannes Haukur JÃ³hannesson.png">JÃ³hannes Haukur JÃ³hannesson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/K Raghavendra Rao.png">K Raghavendra Rao.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/K.J. Apa.png">K.J. Apa.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Kadan Rockett.png">Kadan Rockett.png</a>
@@ -3610,7 +3607,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Kent Faulcon.png">Kent Faulcon.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Kenta Fukasaku.png">Kenta Fukasaku.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Kenya Barris.png">Kenya Barris.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Keram Malicki-Sánchez.png">Keram Malicki-Sánchez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Keram Malicki-SÃ¡nchez.png">Keram Malicki-SÃ¡nchez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Keri Adams.png">Keri Adams.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Kerri Rose.png">Kerri Rose.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Kerry Condon.png">Kerry Condon.png</a>
@@ -3689,7 +3686,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Kirstie Alley.png">Kirstie Alley.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Kirsty Mitchell.png">Kirsty Mitchell.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Kit Harington.png">Kit Harington.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Kiti Mánver.png">Kiti Mánver.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Kiti MÃ¡nver.png">Kiti MÃ¡nver.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Klaus Maria Brandauer.png">Klaus Maria Brandauer.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Knate Gwaltney.png">Knate Gwaltney.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Kobna Holdbrook-Smith.png">Kobna Holdbrook-Smith.png</a>
@@ -3780,12 +3777,12 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lars Ranthe.png">Lars Ranthe.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lars von Trier.png">Lars von Trier.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lashana Lynch.png">Lashana Lynch.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lasse Hallström.png">Lasse Hallström.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lasse HallstrÃ¶m.png">Lasse HallstrÃ¶m.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lateef Crowder.png">Lateef Crowder.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Laughton Parchment.png">Laughton Parchment.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Laura Cayouette.png">Laura Cayouette.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Laura Dern.png">Laura Dern.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Laura Drasbæk.png">Laura Drasbæk.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Laura DrasbÃ¦k.png">Laura DrasbÃ¦k.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Laura Fraser.png">Laura Fraser.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Laura Haddock.png">Laura Haddock.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Laura Hitchings.png">Laura Hitchings.png</a>
@@ -3801,8 +3798,8 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lauren Revard.png">Lauren Revard.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lauren Ridloff.png">Lauren Ridloff.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lauren Shuler Donner.png">Lauren Shuler Donner.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lauren Sánchez.png">Lauren Sánchez.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lauren Vélez.png">Lauren Vélez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lauren SÃ¡nchez.png">Lauren SÃ¡nchez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lauren VÃ©lez.png">Lauren VÃ©lez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Laurence Fishburne.png">Laurence Fishburne.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Laurence Kinlan.png">Laurence Kinlan.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Laurence Naismith.png">Laurence Naismith.png</a>
@@ -3996,9 +3993,9 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lucy-Jayne Murray.png">Lucy-Jayne Murray.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ludacris.png">Ludacris.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ludger Pistor.png">Ludger Pistor.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Luis Guzmán.png">Luis Guzmán.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Luis Otávio.png">Luis Otávio.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Luka Peroš.png">Luka Peroš.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Luis GuzmÃ¡n.png">Luis GuzmÃ¡n.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Luis OtÃ¡vio.png">Luis OtÃ¡vio.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Luka PeroÂš.png">Luka PeroÂš.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lukas Haas.png">Lukas Haas.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Luke Evans.png">Luke Evans.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Luke Hemsworth.png">Luke Hemsworth.png</a>
@@ -4018,9 +4015,9 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lynn Harris.png">Lynn Harris.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lynn-Holly Johnson.png">Lynn-Holly Johnson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lynne Marie Stewart.png">Lynne Marie Stewart.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lærke Winther.png">Lærke Winther.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Léa Seydoux.png">Léa Seydoux.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Lúcio Andrey.png">Lúcio Andrey.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/LÃ¦rke Winther.png">LÃ¦rke Winther.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/LÃ©a Seydoux.png">LÃ©a Seydoux.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/LÃºcio Andrey.png">LÃºcio Andrey.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/M'laah Kaur Singh.png">M'laah Kaur Singh.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/M. Emmet Walsh.png">M. Emmet Walsh.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/M. Night Shyamalan.png">M. Night Shyamalan.png</a>
@@ -4058,7 +4055,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maggie Siff.png">Maggie Siff.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maggie Smith.png">Maggie Smith.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maggie Wheeler.png">Maggie Wheeler.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Magnus Betnér.png">Magnus Betnér.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Magnus BetnÃ©r.png">Magnus BetnÃ©r.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mahershala Ali.png">Mahershala Ali.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mahesh Balraj.png">Mahesh Balraj.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mai Ling.png">Mai Ling.png</a>
@@ -4075,7 +4072,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Malgorzata Gebel.png">Malgorzata Gebel.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maliah Arrayah.png">Maliah Arrayah.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Malin Buska.png">Malin Buska.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Malin Åkerman.png">Malin Åkerman.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Malin Ã…kerman.png">Malin Ã…kerman.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Malou Pantera.png">Malou Pantera.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maluma.png">Maluma.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mandeiya Flory.png">Mandeiya Flory.png</a>
@@ -4087,7 +4084,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Manu Bennett.png">Manu Bennett.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Manuel Garcia-Rulfo.png">Manuel Garcia-Rulfo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Manuel Klein.png">Manuel Klein.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marc Beaupré.png">Marc Beaupré.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marc BeauprÃ©.png">Marc BeauprÃ©.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marc Forster.png">Marc Forster.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marc Geller.png">Marc Geller.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marc Lawrence.png">Marc Lawrence.png</a>
@@ -4103,7 +4100,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marcin Dorocinski.png">Marcin Dorocinski.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marcin Kowalczyk.png">Marcin Kowalczyk.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marco Barricelli.png">Marco Barricelli.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marco Ilsø.png">Marco Ilsø.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marco IlsÃ¸.png">Marco IlsÃ¸.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marco Khan.png">Marco Khan.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marcus Chong.png">Marcus Chong.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marcus Raboy.png">Marcus Raboy.png</a>
@@ -4121,7 +4118,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mari Natsuki.png">Mari Natsuki.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maria Bamford.png">Maria Bamford.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maria Bello.png">Maria Bello.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maria Fernanda Cândido.png">Maria Fernanda Cândido.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maria Fernanda CÃ¢ndido.png">Maria Fernanda CÃ¢ndido.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maria Hippolyte.png">Maria Hippolyte.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maria Thayer.png">Maria Thayer.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mariana Mazza.png">Mariana Mazza.png</a>
@@ -4143,12 +4140,12 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mario de la Rosa.png">Mario de la Rosa.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marion Cotillard.png">Marion Cotillard.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marisa Paredes.png">Marisa Paredes.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marisa Román.png">Marisa Román.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marisa RomÃ¡n.png">Marisa RomÃ¡n.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marisa Tomei.png">Marisa Tomei.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marisha Wallace.png">Marisha Wallace.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marisol Nichols.png">Marisol Nichols.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marissa Jaret Winokur.png">Marissa Jaret Winokur.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Marisé Álvarez.png">Marisé Álvarez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/MarisÃ© Ãlvarez.png">MarisÃ© Ãlvarez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mark Andrews.png">Mark Andrews.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mark Anthony Brighton.png">Mark Anthony Brighton.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mark Benton.png">Mark Benton.png</a>
@@ -4242,7 +4239,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mary-Margaret Humes.png">Mary-Margaret Humes.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maryam d'Abo.png">Maryam d'Abo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maryann Plunkett.png">Maryann Plunkett.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/María Cecilia Botero.png">María Cecilia Botero.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/MarÃ­a Cecilia Botero.png">MarÃ­a Cecilia Botero.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Masako Nozawa.png">Masako Nozawa.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Masashi Kishimoto.png">Masashi Kishimoto.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Masi Oka.png">Masi Oka.png</a>
@@ -4317,7 +4314,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Max von Sydow.png">Max von Sydow.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maxim Baldry.png">Maxim Baldry.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maxim Roy.png">Maxim Roy.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maximiliano Hernández.png">Maximiliano Hernández.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maximiliano HernÃ¡ndez.png">Maximiliano HernÃ¡ndez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maxine Cunliffe.png">Maxine Cunliffe.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Maxine Peake.png">Maxine Peake.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/May Calamawy.png">May Calamawy.png</a>
@@ -4465,10 +4462,10 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michael Palin.png">Michael Palin.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michael Papajohn.png">Michael Papajohn.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michael Parks.png">Michael Parks.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michael Paré.png">Michael Paré.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michael ParÃ©.png">Michael ParÃ©.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michael Patric.png">Michael Patric.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michael Patrick McGill.png">Michael Patrick McGill.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michael Peña.png">Michael Peña.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michael PeÃ±a.png">Michael PeÃ±a.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michael Rady.png">Michael Rady.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michael Ralph.png">Michael Ralph.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michael Rapaport.png">Michael Rapaport.png</a>
@@ -4515,7 +4512,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Michiko Nishiwaki.png">Michiko Nishiwaki.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mick Ebeling.png">Mick Ebeling.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mick Wingert.png">Mick Wingert.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mick Øgendahl.png">Mick Øgendahl.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mick Ã˜gendahl.png">Mick Ã˜gendahl.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mickey Rooney.png">Mickey Rooney.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mickey Rourke.png">Mickey Rourke.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mickie McGowan.png">Mickie McGowan.png</a>
@@ -4523,10 +4520,10 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Miguel A. Lopez.png">Miguel A. Lopez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Miguel Arteta.png">Miguel Arteta.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Miguel Ferrer.png">Miguel Ferrer.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Miguel Herrán.png">Miguel Herrán.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Miguel HerrÃ¡n.png">Miguel HerrÃ¡n.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Miguel Sandoval.png">Miguel Sandoval.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Miguel Sapochnik.png">Miguel Sapochnik.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Miguel Ángel Silvestre.png">Miguel Ángel Silvestre.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Miguel Ãngel Silvestre.png">Miguel Ãngel Silvestre.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mikael Persbrandt.png">Mikael Persbrandt.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mike Birbiglia.png">Mike Birbiglia.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mike Brunlieb.png">Mike Brunlieb.png</a>
@@ -4541,7 +4538,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mike Nichols.png">Mike Nichols.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mike Starr.png">Mike Starr.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mikhail Gorevoy.png">Mikhail Gorevoy.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mikkel Boe Følsgaard.png">Mikkel Boe Følsgaard.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mikkel Boe FÃ¸lsgaard.png">Mikkel Boe FÃ¸lsgaard.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mila Kunis.png">Mila Kunis.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Miles Bakshi.png">Miles Bakshi.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Miles Teller.png">Miles Teller.png</a>
@@ -4596,9 +4593,9 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/MyAnna Buring.png">MyAnna Buring.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mykelti Williamson.png">Mykelti Williamson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Myles Erlick.png">Myles Erlick.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mãdãlina Ghenea.png">Mãdãlina Ghenea.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mädchen Amick.png">Mädchen Amick.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Mélanie Laurent.png">Mélanie Laurent.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/MÃ£dÃ£lina Ghenea.png">MÃ£dÃ£lina Ghenea.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/MÃ¤dchen Amick.png">MÃ¤dchen Amick.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/MÃ©lanie Laurent.png">MÃ©lanie Laurent.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Nabhaan Rizwan.png">Nabhaan Rizwan.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Nabiyah Be.png">Nabiyah Be.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Nadim Sawalha.png">Nadim Sawalha.png</a>
@@ -4622,7 +4619,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Natalia Tena.png">Natalia Tena.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Natalie Dormer.png">Natalie Dormer.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Natalie Holt.png">Natalie Holt.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Natalie Madueño.png">Natalie Madueño.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Natalie MadueÃ±o.png">Natalie MadueÃ±o.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Natalie Martinez.png">Natalie Martinez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Natalie Morales.png">Natalie Morales.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Natalie Palamides.png">Natalie Palamides.png</a>
@@ -4656,7 +4653,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ned Bellamy.png">Ned Bellamy.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ned Benson.png">Ned Benson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ned Dennehy.png">Ned Dennehy.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Neel Rønholt.png">Neel Rønholt.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Neel RÃ¸nholt.png">Neel RÃ¸nholt.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Neil Bell.png">Neil Bell.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Neil Breen.png">Neil Breen.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Neil Canton.png">Neil Canton.png</a>
@@ -4785,7 +4782,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Odeya Rush.png">Odeya Rush.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Oh Young-soo.png">Oh Young-soo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Okieriete Onaodowan.png">Okieriete Onaodowan.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Olalla Hernández.png">Olalla Hernández.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Olalla HernÃ¡ndez.png">Olalla HernÃ¡ndez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Olga Kurylenko.png">Olga Kurylenko.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Olga Merediz.png">Olga Merediz.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Olive Gray.png">Olive Gray.png</a>
@@ -4798,7 +4795,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Oliver Reed.png">Oliver Reed.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Oliver Ryan.png">Oliver Ryan.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Oliver Stone.png">Oliver Stone.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Olivia Araújo.png">Olivia Araújo.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Olivia AraÃºjo.png">Olivia AraÃºjo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Olivia Colman.png">Olivia Colman.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Olivia Cooke.png">Olivia Cooke.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Olivia Munn.png">Olivia Munn.png</a>
@@ -4828,7 +4825,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Oscar Pearce.png">Oscar Pearce.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Otto Farrant.png">Otto Farrant.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Otto Sanchez.png">Otto Sanchez.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ove Sprogøe.png">Ove Sprogøe.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ove SprogÃ¸e.png">Ove SprogÃ¸e.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Owain Arthur.png">Owain Arthur.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Owen Benjamin.png">Owen Benjamin.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Owen Daniels.png">Owen Daniels.png</a>
@@ -4838,7 +4835,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/P.H. Moriarty.png">P.H. Moriarty.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/P.J. Byrne.png">P.J. Byrne.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pablo Francisco.png">Pablo Francisco.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pablo Larraín.png">Pablo Larraín.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pablo LarraÃ­n.png">Pablo LarraÃ­n.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pablo Schreiber.png">Pablo Schreiber.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Packy Lee.png">Packy Lee.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paco Tous.png">Paco Tous.png</a>
@@ -4852,7 +4849,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pamela Ribon.png">Pamela Ribon.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pamela Salem.png">Pamela Salem.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Panuvat Anthony Nanakornpanom.png">Panuvat Anthony Nanakornpanom.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paola Nuñez.png">Paola Nuñez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paola NuÃ±ez.png">Paola NuÃ±ez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paris Jackson.png">Paris Jackson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Park Chan-wook.png">Park Chan-wook.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Park Hae-soo.png">Park Hae-soo.png</a>
@@ -4871,7 +4868,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Patrice O'Neal.png">Patrice O'Neal.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Patricia Arquette.png">Patricia Arquette.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Patricia Clarkson.png">Patricia Clarkson.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Patricia Velásquez.png">Patricia Velásquez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Patricia VelÃ¡squez.png">Patricia VelÃ¡squez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Patrick Barlow.png">Patrick Barlow.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Patrick Brammall.png">Patrick Brammall.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Patrick Crowley.png">Patrick Crowley.png</a>
@@ -4933,7 +4930,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paul Perri.png">Paul Perri.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paul Reiser.png">Paul Reiser.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paul Ritter.png">Paul Ritter.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paul Rodríguez.png">Paul Rodríguez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paul RodrÃ­guez.png">Paul RodrÃ­guez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paul Rudd.png">Paul Rudd.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paul Schrader.png">Paul Schrader.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paul Sloan.png">Paul Sloan.png</a>
@@ -4963,17 +4960,17 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Paw Henriksen.png">Paw Henriksen.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Payton Lepinski.png">Payton Lepinski.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pedro Alonso.png">Pedro Alonso.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pedro Armendáriz.png">Pedro Armendáriz.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pedro ArmendÃ¡riz.png">Pedro ArmendÃ¡riz.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pedro Chingo Bling Herrera.png">Pedro Chingo Bling Herrera.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pedro Pascal.png">Pedro Pascal.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pedro Salvín.png">Pedro Salvín.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pedro SalvÃ­n.png">Pedro SalvÃ­n.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Peg Holzemer.png">Peg Holzemer.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Peggy Lipton.png">Peggy Lipton.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Peggy Lu.png">Peggy Lu.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Peilin Chou.png">Peilin Chou.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Penny Johnson.png">Penny Johnson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Penny Marshall.png">Penny Marshall.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Penélope Cruz.png">Penélope Cruz.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/PenÃ©lope Cruz.png">PenÃ©lope Cruz.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Perla Haney-Jardine.png">Perla Haney-Jardine.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pernilla August.png">Pernilla August.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pete Correale.png">Pete Correale.png</a>
@@ -5071,7 +5068,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pierre Even.png">Pierre Even.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Piers Morgan.png">Piers Morgan.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pietro De Silva.png">Pietro De Silva.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pilou Asbæk.png">Pilou Asbæk.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pilou AsbÃ¦k.png">Pilou AsbÃ¦k.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Pinar Toprak.png">Pinar Toprak.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Piotr Adamczyk.png">Piotr Adamczyk.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Piotr Michael.png">Piotr Michael.png</a>
@@ -5099,7 +5096,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Quentin Dupieux.png">Quentin Dupieux.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Quentin Tarantino.png">Quentin Tarantino.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Questlove.png">Questlove.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Quim Gutiérrez.png">Quim Gutiérrez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Quim GutiÃ©rrez.png">Quim GutiÃ©rrez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Quincy Jones.png">Quincy Jones.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Quinn Duffy.png">Quinn Duffy.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Quinton Jackson.png">Quinton Jackson.png</a>
@@ -5119,7 +5116,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rachel McAdams.png">Rachel McAdams.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rachel Weisz.png">Rachel Weisz.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rachelle Wood.png">Rachelle Wood.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rade Šerbedžija.png">Rade Šerbedžija.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rade ÂŠerbedÂžija.png">Rade ÂŠerbedÂžija.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Radha Mitchell.png">Radha Mitchell.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rae Dawn Chong.png">Rae Dawn Chong.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/RaeLynn Bratten.png">RaeLynn Bratten.png</a>
@@ -5145,7 +5142,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ram Bergman.png">Ram Bergman.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rami Malek.png">Rami Malek.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ramy Youssef.png">Ramy Youssef.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ramón Menéndez.png">Ramón Menéndez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/RamÃ³n MenÃ©ndez.png">RamÃ³n MenÃ©ndez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rana Daggubati.png">Rana Daggubati.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rance Howard.png">Rance Howard.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Randal Reeder.png">Randal Reeder.png</a>
@@ -5165,7 +5162,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rashmi Rustagi.png">Rashmi Rustagi.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rasmus Bjerg.png">Rasmus Bjerg.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Raven Scott.png">Raven Scott.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Raven-Symoné.png">Raven-Symoné.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Raven-SymonÃ©.png">Raven-SymonÃ©.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ravi Cabot-Conyers.png">Ravi Cabot-Conyers.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rawson Marshall Thurber.png">Rawson Marshall Thurber.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ray Campbell.png">Ray Campbell.png</a>
@@ -5182,7 +5179,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Raymond Ablack.png">Raymond Ablack.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Raymond J. Barry.png">Raymond J. Barry.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Raymond Lee.png">Raymond Lee.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Raúl Esparza.png">Raúl Esparza.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/RaÃºl Esparza.png">RaÃºl Esparza.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rebecca Ferguson.png">Rebecca Ferguson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rebecca Front.png">Rebecca Front.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rebecca Hall.png">Rebecca Hall.png</a>
@@ -5207,10 +5204,10 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Renato Carpentieri.png">Renato Carpentieri.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rene Russo.png">Rene Russo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Renes Rivera.png">Renes Rivera.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/René Auberjonois.png">René Auberjonois.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Renée Elise Goldsberry.png">Renée Elise Goldsberry.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Renée Victor.png">Renée Victor.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Renée Zellweger.png">Renée Zellweger.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/RenÃ© Auberjonois.png">RenÃ© Auberjonois.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/RenÃ©e Elise Goldsberry.png">RenÃ©e Elise Goldsberry.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/RenÃ©e Victor.png">RenÃ©e Victor.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/RenÃ©e Zellweger.png">RenÃ©e Zellweger.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Reuben Uy.png">Reuben Uy.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rex Linn.png">Rex Linn.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rex Ngui.png">Rex Ngui.png</a>
@@ -5460,7 +5457,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Roy Wood Jr..png">Roy Wood Jr..png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/RuPaul.png">RuPaul.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ruben Fleischer.png">Ruben Fleischer.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ruben Søltoft.png">Ruben Søltoft.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ruben SÃ¸ltoft.png">Ruben SÃ¸ltoft.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ruby Modine.png">Ruby Modine.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ruby Rose.png">Ruby Rose.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Rudy Bond.png">Rudy Bond.png</a>
@@ -5606,7 +5603,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sarah-Jeanne Labrosse.png">Sarah-Jeanne Labrosse.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sarah-Nicole Robles.png">Sarah-Nicole Robles.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sarita Choudhury.png">Sarita Choudhury.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sasha Compère.png">Sasha Compère.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sasha CompÃ¨re.png">Sasha CompÃ¨re.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sasha Hutchings.png">Sasha Hutchings.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sasha Lane.png">Sasha Lane.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Satoshi Kon.png">Satoshi Kon.png</a>
@@ -5614,7 +5611,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Saverio Guerra.png">Saverio Guerra.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Saverio Raimondo.png">Saverio Raimondo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sayed Badreya.png">Sayed Badreya.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Saïd Taghmaoui.png">Saïd Taghmaoui.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/SaÃ¯d Taghmaoui.png">SaÃ¯d Taghmaoui.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Scarlett Johansson.png">Scarlett Johansson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Scoot McNairy.png">Scoot McNairy.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Scott Adkins.png">Scott Adkins.png</a>
@@ -5664,7 +5661,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sebastian Stan.png">Sebastian Stan.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sebastien Semon.png">Sebastien Semon.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sebastien Torkia.png">Sebastien Torkia.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sebastián Viveros.png">Sebastián Viveros.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/SebastiÃ¡n Viveros.png">SebastiÃ¡n Viveros.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sedona Fuller.png">Sedona Fuller.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Selena Anduze.png">Selena Anduze.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Selena Gomez.png">Selena Gomez.png</a>
@@ -5769,7 +5766,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Simon Wong.png">Simon Wong.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Simona Zivkovska.png">Simona Zivkovska.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Simone Kirby.png">Simone Kirby.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Simón Andreu.png">Simón Andreu.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/SimÃ³n Andreu.png">SimÃ³n Andreu.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sinbad.png">Sinbad.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sinead Matthews.png">Sinead Matthews.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Siobhan Fallon Hogan.png">Siobhan Fallon Hogan.png</a>
@@ -5787,8 +5784,8 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sofia Boutella.png">Sofia Boutella.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sofia Coppola.png">Sofia Coppola.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sofia Hublitz.png">Sofia Hublitz.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sofía Espinosa.png">Sofía Espinosa.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sofía Vergara.png">Sofía Vergara.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/SofÃ­a Espinosa.png">SofÃ­a Espinosa.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/SofÃ­a Vergara.png">SofÃ­a Vergara.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sonny Ashbourne Serkis.png">Sonny Ashbourne Serkis.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sonny Shroyer.png">Sonny Shroyer.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sonoya Mizuno.png">Sonoya Mizuno.png</a>
@@ -5836,7 +5833,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Stefanie Powers.png">Stefanie Powers.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Stefanie Wiens.png">Stefanie Wiens.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Stella Stocker.png">Stella Stocker.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Stellan Skarsgård.png">Stellan Skarsgård.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Stellan SkarsgÃ¥rd.png">Stellan SkarsgÃ¥rd.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Stephanie Beatriz.png">Stephanie Beatriz.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Stephanie Czajkowski.png">Stephanie Czajkowski.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Stephanie Hsu.png">Stephanie Hsu.png</a>
@@ -5958,9 +5955,9 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sylvester McCoy.png">Sylvester McCoy.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sylvester Stallone.png">Sylvester Stallone.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sylvia Nasar.png">Sylvia Nasar.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Sébastien Foucan.png">Sébastien Foucan.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Søren Malling.png">Søren Malling.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Søren Pilmark.png">Søren Pilmark.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/SÃ©bastien Foucan.png">SÃ©bastien Foucan.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/SÃ¸ren Malling.png">SÃ¸ren Malling.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/SÃ¸ren Pilmark.png">SÃ¸ren Pilmark.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/T. J. Miller.png">T. J. Miller.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/T.I..png">T.I..png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tadanobu Asano.png">Tadanobu Asano.png</a>
@@ -6005,7 +6002,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Taylor John Smith.png">Taylor John Smith.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Taylor Lautner.png">Taylor Lautner.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Taylor St. Clair.png">Taylor St. Clair.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tchéky Karyo.png">Tchéky Karyo.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/TchÃ©ky Karyo.png">TchÃ©ky Karyo.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ted Danson.png">Ted Danson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ted Elliott.png">Ted Elliott.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ted Friend.png">Ted Friend.png</a>
@@ -6115,7 +6112,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Timothy Napier Moxon.png">Timothy Napier Moxon.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Timothy Olyphant.png">Timothy Olyphant.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Timothy Spall.png">Timothy Spall.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Timothée Chalamet.png">Timothée Chalamet.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/TimothÃ©e Chalamet.png">TimothÃ©e Chalamet.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tina Benko.png">Tina Benko.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tina Fey.png">Tina Fey.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tina Parker.png">Tina Parker.png</a>
@@ -6226,11 +6223,11 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tony Todd.png">Tony Todd.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Topher Grace.png">Topher Grace.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Topo Wresniwiro.png">Topo Wresniwiro.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tora Hallström.png">Tora Hallström.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tora HallstrÃ¶m.png">Tora HallstrÃ¶m.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tori Anderson.png">Tori Anderson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Torrey DeVitto.png">Torrey DeVitto.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Toshio Suzuki.png">Toshio Suzuki.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Toshirô Suga.png">Toshirô Suga.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/ToshirÃ´ Suga.png">ToshirÃ´ Suga.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tovah Feldshuh.png">Tovah Feldshuh.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Trace Adkins.png">Trace Adkins.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Trace Lysette.png">Trace Lysette.png</a>
@@ -6276,7 +6273,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tyrese Gibson.png">Tyrese Gibson.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tyroe Muhafidin.png">Tyroe Muhafidin.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Tzi Ma.png">Tzi Ma.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Téa Leoni.png">Téa Leoni.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/TÃ©a Leoni.png">TÃ©a Leoni.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Udo Kier.png">Udo Kier.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Uma Thurman.png">Uma Thurman.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Umit Ulgen.png">Umit Ulgen.png</a>
@@ -6307,7 +6304,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Vera Farmiga.png">Vera Farmiga.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Verne Troyer.png">Verne Troyer.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Vernon Dobtcheff.png">Vernon Dobtcheff.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Veronica Falcón.png">Veronica Falcón.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Veronica FalcÃ³n.png">Veronica FalcÃ³n.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Veryl Jones.png">Veryl Jones.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Vic Chao.png">Vic Chao.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Vic Manni.png">Vic Manni.png</a>
@@ -6492,7 +6489,7 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Wyatt Russell.png">Wyatt Russell.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Wyck Godfrey.png">Wyck Godfrey.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Xander Berkeley.png">Xander Berkeley.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Xavier Jiménez.png">Xavier Jiménez.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Xavier JimÃ©nez.png">Xavier JimÃ©nez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Xochitl Gomez.png">Xochitl Gomez.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Xolo Mariduena.png">Xolo Mariduena.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Yahya Abdul-Mateen II.png">Yahya Abdul-Mateen II.png</a>
@@ -6554,19 +6551,19 @@
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Zenobia Shroff.png">Zenobia Shroff.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Zhou Xun.png">Zhou Xun.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Zoe Saldana.png">Zoe Saldana.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Zoe Saldaña.png">Zoe Saldaña.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Zoe SaldaÃ±a.png">Zoe SaldaÃ±a.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Zoey Deutch.png">Zoey Deutch.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Zola Williams.png">Zola Williams.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Zooey Deschanel.png">Zooey Deschanel.png</a>
 <br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Zosia Mamet.png">Zosia Mamet.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Zoë Bell.png">Zoë Bell.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Zoë Kravitz.png">Zoë Kravitz.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Zoë Wanamaker.png">Zoë Wanamaker.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Álvaro Augustín.png">Álvaro Augustín.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Álvaro Morte.png">Álvaro Morte.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Élodie Yung.png">Élodie Yung.png</a>
-<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ólafur Darri Ólafsson.png">Ólafur Darri Ólafsson.png</a>
-<br>				   `-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Úrsula Corberó.png">Úrsula Corberó.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/ZoÃ« Bell.png">ZoÃ« Bell.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/ZoÃ« Kravitz.png">ZoÃ« Kravitz.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/ZoÃ« Wanamaker.png">ZoÃ« Wanamaker.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ãlvaro AugustÃ­n.png">Ãlvaro AugustÃ­n.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ãlvaro Morte.png">Ãlvaro Morte.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ã‰lodie Yung.png">Ã‰lodie Yung.png</a>
+<br>				   |-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ã“lafur Darri Ã“lafsson.png">Ã“lafur Darri Ã“lafsson.png</a>
+<br>				   `-- <a class="NORM" href="https://github.com/bullmoose20/People-Photo-Posters/blob/main/transparent/Ãšrsula CorberÃ³.png">Ãšrsula CorberÃ³.png</a>
 		<br><br>
 		</p>
 		<p>
